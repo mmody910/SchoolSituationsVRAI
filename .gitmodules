@@ -1,0 +1,3 @@
+[submodule "Scripts"]
+	path = Assets/Scripts
+	url = https://github.com/YatekSolutions/Scripts.git

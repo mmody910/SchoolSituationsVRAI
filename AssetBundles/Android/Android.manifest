@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3903117608
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: talk_to_teacher
+      Dependencies: {}
+    Info_1:
+      Name: group_work_session
+      Dependencies: {}
+    Info_2:
+      Name: present_in_front_of_a_class
+      Dependencies: {}
