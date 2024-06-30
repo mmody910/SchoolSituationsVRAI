@@ -1,0 +1,24 @@
+09:19:48:529 [ALWAYS]	GUDE Logging Started
+09:19:48:530 [INFO]	SqliteResumeCache::SqliteResumeCache basedirectory is null/empty
+09:19:48:530 [ERROR]	SqliteResumeCache::CreateSqliteResumeCache creating resume cache pointer failure
+09:19:48:530 [ERROR]	Initialize resume cache pointer failure
+09:19:48:530 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+09:19:48:530 [INFO]	Initialized -- gude-lib version: v0.12.1 app: gude
+11:58:54:739 [ALWAYS]	GUDE Logging Started
+11:58:54:739 [INFO]	SqliteResumeCache::SqliteResumeCache basedirectory is null/empty
+11:58:54:739 [ERROR]	SqliteResumeCache::CreateSqliteResumeCache creating resume cache pointer failure
+11:58:54:739 [ERROR]	Initialize resume cache pointer failure
+11:58:54:739 [INFO]	gude policy POLICY_USER limit (2,2,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 0, timeout 86400 
+11:58:54:739 [INFO]	Initialized -- gude-lib version: v0.12.1 app: gude
+13:36:54:318 [ALWAYS]	GUDE Logging Started
+13:36:54:318 [INFO]	SqliteResumeCache::SqliteResumeCache basedirectory is null/empty
+13:36:54:318 [ERROR]	SqliteResumeCache::CreateSqliteResumeCache creating resume cache pointer failure
+13:36:54:318 [ERROR]	Initialize resume cache pointer failure
+13:36:54:318 [INFO]	gude policy POLICY_USER limit (2,2,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 0, timeout 86400 
+13:36:54:318 [INFO]	Initialized -- gude-lib version: v0.12.1 app: gude
+13:36:58:282 [WARN]	Ignoring attempt to reinit logging to \gude at level 4 retaining 3 days of logs
+13:36:58:282 [INFO]	SqliteResumeCache::SqliteResumeCache basedirectory is null/empty
+13:36:58:282 [ERROR]	SqliteResumeCache::CreateSqliteResumeCache creating resume cache pointer failure
+13:36:58:282 [ERROR]	Initialize resume cache pointer failure
+13:36:58:282 [INFO]	gude policy POLICY_USER limit (4,4,1) chunk 2097152, chunking (UL 0 DL 1), resXfer 1, adapt 0, NSURL 1, timeout 86400 
+13:36:58:282 [INFO]	Initialized -- gude-lib version: v0.12.1 app: gude

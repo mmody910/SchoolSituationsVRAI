@@ -1,0 +1,413 @@
+{
+    "expressionsList": [
+        {
+            "expressionName": "EyesLookDown",
+            "blendShapes": [
+                {
+                    "blendShapeName": "eyesLookDown",
+                    "minValue": 0,
+                    "maxValue": 2
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 2,
+            "minSpeed": 0.1,
+            "maxSpeed": 0.5,
+            "minFreezeTime": 0.2,
+            "maxFreezeTime": 3.0
+        },
+        {
+            "expressionName": "EyesLookRight",
+            "blendShapes": [
+                {
+                    "blendShapeName": "eyeLookOutRight",
+                    "minValue": 0,
+                    "maxValue": 55
+                },
+                {
+                    "blendShapeName": "eyeLookInLeft",
+                    "minValue": 0,
+                    "maxValue": 20
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 50,
+            "minSpeed": 0.1,
+            "maxSpeed": 0.5,
+            "minFreezeTime": 0.2,
+            "maxFreezeTime": 1.0
+        },
+        {
+            "expressionName": "EyesLookLeft",
+            "blendShapes": [
+                {
+                    "blendShapeName": "eyeLookOutLeft",
+                    "minValue": 0,
+                    "maxValue": 55
+                },
+                {
+                    "blendShapeName": "eyeLookInRight",
+                    "minValue": 0,
+                    "maxValue": 20
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 50,
+            "minSpeed": 0.1,
+            "maxSpeed": 0.5,
+            "minFreezeTime": 0.2,
+            "maxFreezeTime": 1.0
+        },
+        {
+            "expressionName": "Surprise",
+            "blendShapes": [
+                {
+                    "blendShapeName": "mouthOpen",
+                    "minValue": 50,
+                    "maxValue": 100
+                },
+                {
+                    "blendShapeName": "eyeWideLeft",
+                    "minValue": 50,
+                    "maxValue": 90
+                },
+                {
+                    "blendShapeName": "eyeWideRight",
+                    "minValue": 50,
+                    "maxValue": 90
+                },
+                {
+                    "blendShapeName": "mouthFunnel",
+                    "minValue": 30,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "browInnerUp",
+                    "minValue": 30,
+                    "maxValue": 90
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Puzzled",
+            "blendShapes": [
+                {
+                    "blendShapeName": "eyeSquintLeft",
+                    "minValue": 40,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "jawLeft",
+                    "minValue": 20,
+                    "maxValue": 40
+                },
+                {
+                    "blendShapeName": "mouthDimpleLeft",
+                    "minValue": 40,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "mouthPressLeft",
+                    "minValue": 50,
+                    "maxValue": 60
+                },
+                {
+                    "blendShapeName": "browOuterUpLeft",
+                    "minValue": 40,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "noseSneerLeft",
+                    "minValue": 20,
+                    "maxValue": 30
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "HappySurprise",
+            "blendShapes": [
+                {
+                    "blendShapeName": "mouthOpen",
+                    "minValue": 50,
+                    "maxValue": 100
+                },
+                {
+                    "blendShapeName": "eyeWideLeft",
+                    "minValue": 50,
+                    "maxValue": 90
+                },
+                {
+                    "blendShapeName": "mouthSmile",
+                    "minValue": 50,
+                    "maxValue": 90
+                },
+                {
+                    "blendShapeName": "browInnerUp",
+                    "minValue": 30,
+                    "maxValue": 90
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Smile",
+            "blendShapes": [
+                {
+                    "blendShapeName": "mouthSmile",
+                    "minValue": 40,
+                    "maxValue": 60
+                },
+                {
+                    "blendShapeName": "eyeSquintLeft",
+                    "minValue": 40,
+                    "maxValue": 70
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Joy",
+            "blendShapes": [
+                {
+                    "blendShapeName": "mouthSmile",
+                    "minValue": 30,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "eyeSquintLeft",
+                    "minValue": 60,
+                    "maxValue": 100
+                },
+                {
+                    "blendShapeName": "mouthLowerDownLeft",
+                    "minValue": 10,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "mouthLowerDownRight",
+                    "minValue": 10,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "mouthUpperUpLeft",
+                    "minValue": 20,
+                    "maxValue": 30
+                },
+                {
+                    "blendShapeName": "mouthUpperUpRight",
+                    "minValue": 20,
+                    "maxValue": 30
+                },
+                {
+                    "blendShapeName": "browInnerUp",
+                    "minValue": 30,
+                    "maxValue": 60
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Sadness",
+            "blendShapes": [
+                {
+                    "blendShapeName": "mouthSmile",
+                    "minValue": -40,
+                    "maxValue": -10
+                },
+                {
+                    "blendShapeName": "eyesClosed",
+                    "minValue": 20,
+                    "maxValue": 50
+                },
+                {
+                    "blendShapeName": "eyesLookDown",
+                    "minValue": 30,
+                    "maxValue": 90
+                },
+                {
+                    "blendShapeName": "mouthFrownLeft",
+                    "minValue": 70,
+                    "maxValue": 100
+                },
+                {
+                    "blendShapeName": "mouthFrownRight",
+                    "minValue": 70,
+                    "maxValue": 100
+                },
+                {
+                    "blendShapeName": "browInnerUp",
+                    "minValue": 30,
+                    "maxValue": 60
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Annoyed",
+            "blendShapes": [
+                {
+                    "blendShapeName": "eyeBlinkLeft",
+                    "minValue": 5,
+                    "maxValue": 15
+                },
+                {
+                    "blendShapeName": "eyeSquintLeft",
+                    "minValue": 60,
+                    "maxValue": 75
+                },
+                {
+                    "blendShapeName": "mouthShrugUpper",
+                    "minValue": 70,
+                    "maxValue": 90
+                },
+                {
+                    "blendShapeName": "mouthPressLeft",
+                    "minValue": 15,
+                    "maxValue": 25
+                },
+                {
+                    "blendShapeName": "noseSneerLeft",
+                    "minValue": 80,
+                    "maxValue": 100
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Exasperated",
+            "blendShapes": [
+                {
+                    "blendShapeName": "cheekPuff",
+                    "minValue": 80,
+                    "maxValue": 100
+                },
+                {
+                    "blendShapeName": "browDownLeft",
+                    "minValue": 25,
+                    "maxValue": 35
+                },
+                {
+                    "blendShapeName": "browDownRight",
+                    "minValue": 25,
+                    "maxValue": 35
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "CleverSmile",
+            "blendShapes": [
+                {
+                    "blendShapeName": "mouthSmile",
+                    "minValue": 40,
+                    "maxValue": 60
+                },
+                {
+                    "blendShapeName": "browOuterUpRight",
+                    "minValue": 60,
+                    "maxValue": 70
+                },
+                {
+                    "blendShapeName": "browInnerUp",
+                    "minValue": 25,
+                    "maxValue": 30
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Friendly",
+            "blendShapes": [
+                {
+                    "blendShapeName": "mouthSmile",
+                    "minValue": 20,
+                    "maxValue": 70
+                },
+                {
+                    "blendShapeName": "eyeSquintLeft",
+                    "minValue": 20,
+                    "maxValue": 40
+                },
+                {
+                    "blendShapeName": "browInnerUp",
+                    "minValue": 20,
+                    "maxValue": 60
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 1.0,
+            "minFreezeTime": 1.0,
+            "maxFreezeTime": 5.0
+        },
+        {
+            "expressionName": "Neutral",
+            "blendShapes": [
+                {
+                    "blendShapeName": "browInnerUp",
+                    "minValue": 10,
+                    "maxValue": 40
+                },
+                {
+                    "blendShapeName": "mouthLeft",
+                    "minValue": 0,
+                    "maxValue": 30
+                }
+            ],
+            "minValue": 0,
+            "maxValue": 75,
+            "minSpeed": 0.1,
+            "maxSpeed": 0.5,
+            "minFreezeTime": 0.2,
+            "maxFreezeTime": 2.0
+        }
+    ]
+}
